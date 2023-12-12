@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Lucas Nunes, a Computer Science student and a game developer in development! <sub><img src="https://media.tenor.com/gnjE0KpqR_EAAAAi/link-legend-of-zelda.gif" width="45" height="40"/></sub>
 
 - 🔭 I’m currently working on a blog to post info about my game dev projects.
-- 🌱 I’m currently learning about [C++](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170), [Vulkan](https://www.vulkan.org) and [HLSL](https://en.wikipedia.org/wiki/High-Level_Shader_Language)!
+- 🌱 I’m currently learning about [C++](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170), [Vulkan](https://www.vulkan.org) and [HLSL](https://en.wikipedia.org/wiki/High-Level_Shader_Language)!
 
 📫 Contact info:
 
@@ -25,6 +25,7 @@
 
 <a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/CSharp-371F76?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+<a href="https://https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
 <a href="https://godotengine.org"><img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white"/></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
