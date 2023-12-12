@@ -23,12 +23,12 @@
   
 ### 👾 My main tools and programming languages
 
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![CSharp](https://img.shields.io/badge/CSharp-371F76?style=for-the-badge&logo=csharp&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/CSharp-371F76?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+<a href="https://godotengine.org"><img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white"/></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaoshow/lucaoshow/output/github-contribution-grid-snake-dark.svg">
