@@ -29,7 +29,7 @@
 <a href="https://godotengine.org"><img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white"/></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000"/></a>
 <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
