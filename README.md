@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Lucas Nunes, a Computer Science student and a game developer in development! <sub><img src="https://media.tenor.com/gnjE0KpqR_EAAAAi/link-legend-of-zelda.gif" width="45" height="40"/></sub>
 
-- 🔭 I’m currently working on [Ghetto Zombies](https://fogogames.itch.io/ghetto-zombies-graffiti-squad)!
-- 🌱 I’m currently learning about [C++](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170), [HLSL](https://en.wikipedia.org/wiki/High-Level_Shader_Language) and [GML](https://manual.gamemaker.io/monthly/br/GameMaker_Language/GML_Overview/GML_Overview.htm)!
+- 🔭 I’m currently working on a highly scalable distributed system for [Vivo](https://vivo.com.br)'s inventory management!
+- 🌱 I’m currently learning about [procedural animation](https://www.larksuite.com/en_us/topics/gaming-glossary/procedural-animation) and [level generation](https://en.wikipedia.org/wiki/Procedural_generation), [shaders](https://en.wikipedia.org/wiki/Shader) and [AWS](https://aws.amazon.com)!
 
 📫 Contact info:
 
@@ -24,14 +24,14 @@
 ### 👾 My main tools and programming languages
 
 <a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/CSharp-371F76?style=for-the-badge&logo=csharp&logoColor=white"/></a>
-<a href="https://https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 <a href="https://godotengine.org"><img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white"/></a>
+<a href="https://https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
+<a href="https://go.dev/doc/"><img src="https://shields.io/badge/Go-01ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000"/></a>
 <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-<a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 
 
 <picture>
